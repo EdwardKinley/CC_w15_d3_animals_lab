@@ -4,7 +4,7 @@ const Title = (props) => {
   return (
     <div>
       <h1>
-        Animal Cage
+        Country Cage
       </h1>
     </div>
   );

@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import AnimalContainer from './containers/AnimalContainer.js';
+import CountryContainer from './containers/CountryContainer.js';
 
 class App extends Component {
   render() {
     return (
-      <AnimalContainer />
+      <CountryContainer />
     );
   }
 }
