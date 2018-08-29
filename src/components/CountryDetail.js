@@ -5,6 +5,7 @@ const CountryDetail = function (props) {
     <li className="country-detail">
       <h4>{props.name}</h4>
       <p>{props.region}</p>
+      <img src={props.flag} alt={props.name} />
     </li>
   );
 }

@@ -5,3 +5,26 @@ body {
   color: salmon;
   text-align: center;
 }
+
+ul {
+  list-style: none;
+}
+
+li {
+  background-color: lightblue;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+img {
+  width: 50%;
+}
+
+button {
+  background-color: green;
+  font-size: 1rem;
+  color: white;
+  margin: 0.5rem;
+  width: 5rem;
+  height: 2rem;
+}
